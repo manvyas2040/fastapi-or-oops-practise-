@@ -1,0 +1,7 @@
+File "c:\Users\manvy\Desktop\code\linked_list.py", line 115, in <module>
+    ll.delete_by_value(data)
+    ~~~~~~~~~~~~~~~~~~^^^^^^
+  File "c:\Users\manvy\Desktop\code\linked_list.py", line 59, in delete_by_value
+    prev.next = _next
+    ^^^^
+UnboundLocalError: cannot access local variable 'prev' where it is not associated with a value
